@@ -165,7 +165,6 @@ header {
   overflow: hidden;
   transform: rotate(13deg);
 
-  /*come back to thin conferm the index.css*/
   transition: var(--transition);
 }
 .about__me-image:hover {
@@ -437,7 +436,8 @@ footer a {
     height: auto;
   }
   .portfolio__container {
-    grid-template-columns: 1fr;
+    display: flex;
+    flex-direction: column;
     gap: 1rem;
   }
   .container.contact__container {
