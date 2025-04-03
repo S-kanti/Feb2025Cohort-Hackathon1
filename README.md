@@ -1,4 +1,30 @@
+# Personal Portfolio - README 📂
+
+Welcome to my Personal Portfolio Repository! 🚀 This repository contains the source code for my personal portfolio website, where I showcase my skills, projects, and experiences in web development and technology.
+
+## 🌟 Overview
+
+This portfolio website serves as a digital resume and project showcase. It includes the following sections:
+1. **Home**: A welcome page with an introduction.
+2. **About Me**: A brief bio, highlighting my skills, background, and interests.
+3. **Skills**: A list of programming languages and technologies I’m proficient in.
+Education: My academic background with a downloadable CV.
+4. **Projects**: A showcase of my work with links to repositories and live demos.
+5. **Contact**: A form for employers, collaborators, or recruiters to reach out.
+
+# 🛠️ Technologies Used
+This portfolio was built using:
+1. **HTML**: Structure and content.
+2. **CSS**: Styling and layout.
+3. **GitHub Pages/Netlify**: Deployment.
+   **THIS IS THE LINK TO THE DEPLOYED PORTFOLIO PAGE:
+   https://s-kanti.github.io/Feb2025Cohort-Hackathon1/
+
+## Project Guidelines are statde below
+   
+
 # Feb 2025 Cohort Hackathon 1: Portfolio Challenge 🚀  
+
 
 Welcome to the **PLP Academy Portfolio Challenge!** 🎉  
 
